@@ -34,7 +34,7 @@ body {
   width: 100%;
   top: 0;
   left: 0;
-  padding: 4rem 12%;
+  padding: 2rem 12%;
   background-color: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(10px);
   display: flex;
